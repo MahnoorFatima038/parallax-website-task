@@ -1,0 +1,63 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+.parallax-one
+{
+    width:100%;
+    height:600px;
+    background-attachment: fixed;
+    background-image: url("https://images.unsplash.com/photo-1631631480669-535cc43f2327?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+
+}
+
+.parallax-one h2
+{
+    position: relative;
+    left: 520px;
+    top:280px;
+    background-color: green;
+    color:white;
+    width: 240px;
+    padding: 10px;
+    text-align: center;
+    height: 25px;
+
+}
+
+
+.parallax-two
+{
+    width:100%;
+    height:600px;
+    background-attachment: fixed;
+  background-size: 100% 100%; 
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg");
+
+}
+
+.parallax-two h2
+{
+position:relative;
+left:544px;
+top:30px;
+background-color:brown;
+color: white;
+width:200px;
+padding: 5px;
+right: 8px;
+text-align: center;
+}
+
+.para
+{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-style:inherit;
+    padding:30px;
+    text-align: center;
+}
+
